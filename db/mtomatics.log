@@ -1,0 +1,88 @@
+/var/www/html/mtomatics/db/mtomatics.py:74: DeprecationWarning: The default datetime adapter is deprecated as of Python 3.12; see the sqlite3 documentation for suggested replacement recipes
+  cur.execute(sql,(idsite, ts,t_2m,precip_1h,wind_dir_10m,wind_speed_10m,wind_gusts_10m_1h,msl_pressure,weather_symbol_1h,weather_symbol_24h,sunrise,sunset,dt.datetime.now(dt.UTC).replace(second=0)))
+/var/www/html/mtomatics/db/mtomatics.py:74: DeprecationWarning: The default datetime adapter is deprecated as of Python 3.12; see the sqlite3 documentation for suggested replacement recipes
+  cur.execute(sql,(idsite, ts,t_2m,precip_1h,wind_dir_10m,wind_speed_10m,wind_gusts_10m_1h,msl_pressure,weather_symbol_1h,weather_symbol_24h,sunrise,sunset,dt.datetime.now(dt.UTC).replace(second=0)))
+/var/www/html/mtomatics/db/mtomatics.py:74: DeprecationWarning: The default datetime adapter is deprecated as of Python 3.12; see the sqlite3 documentation for suggested replacement recipes
+  cur.execute(sql,(idsite, ts,t_2m,precip_1h,wind_dir_10m,wind_speed_10m,wind_gusts_10m_1h,msl_pressure,weather_symbol_1h,weather_symbol_24h,sunrise,sunset,dt.datetime.now(dt.UTC).replace(second=0)))
+/var/www/html/mtomatics/db/mtomatics.py:74: DeprecationWarning: The default datetime adapter is deprecated as of Python 3.12; see the sqlite3 documentation for suggested replacement recipes
+  cur.execute(sql,(idsite, ts,t_2m,precip_1h,wind_dir_10m,wind_speed_10m,wind_gusts_10m_1h,msl_pressure,weather_symbol_1h,weather_symbol_24h,sunrise,sunset,dt.datetime.now(dt.UTC).replace(second=0)))
+/var/www/html/mtomatics/db/mtomatics.py:74: DeprecationWarning: The default datetime adapter is deprecated as of Python 3.12; see the sqlite3 documentation for suggested replacement recipes
+  cur.execute(sql,(idsite, ts,t_2m,precip_1h,wind_dir_10m,wind_speed_10m,wind_gusts_10m_1h,msl_pressure,weather_symbol_1h,weather_symbol_24h,sunrise,sunset,dt.datetime.now(dt.UTC).replace(second=0)))
+/var/www/html/mtomatics/db/mtomatics.py:74: DeprecationWarning: The default datetime adapter is deprecated as of Python 3.12; see the sqlite3 documentation for suggested replacement recipes
+  cur.execute(sql,(idsite, ts,t_2m,precip_1h,wind_dir_10m,wind_speed_10m,wind_gusts_10m_1h,msl_pressure,weather_symbol_1h,weather_symbol_24h,sunrise,sunset,dt.datetime.now(dt.UTC).replace(second=0)))
+/var/www/html/mtomatics/db/mtomatics.py:74: DeprecationWarning: The default datetime adapter is deprecated as of Python 3.12; see the sqlite3 documentation for suggested replacement recipes
+  cur.execute(sql,(idsite, ts,t_2m,precip_1h,wind_dir_10m,wind_speed_10m,wind_gusts_10m_1h,msl_pressure,weather_symbol_1h,weather_symbol_24h,sunrise,sunset,dt.datetime.now(dt.UTC).replace(second=0)))
+/var/www/html/mtomatics/db/mtomatics.py:74: DeprecationWarning: The default datetime adapter is deprecated as of Python 3.12; see the sqlite3 documentation for suggested replacement recipes
+  cur.execute(sql,(idsite, ts,t_2m,precip_1h,wind_dir_10m,wind_speed_10m,wind_gusts_10m_1h,msl_pressure,weather_symbol_1h,weather_symbol_24h,sunrise,sunset,dt.datetime.now(dt.UTC).replace(second=0)))
+/var/www/html/mtomatics/db/mtomatics.py:74: DeprecationWarning: The default datetime adapter is deprecated as of Python 3.12; see the sqlite3 documentation for suggested replacement recipes
+  cur.execute(sql,(idsite, ts,t_2m,precip_1h,wind_dir_10m,wind_speed_10m,wind_gusts_10m_1h,msl_pressure,weather_symbol_1h,weather_symbol_24h,sunrise,sunset,dt.datetime.now(dt.UTC).replace(second=0)))
+/var/www/html/mtomatics/db/mtomatics.py:74: DeprecationWarning: The default datetime adapter is deprecated as of Python 3.12; see the sqlite3 documentation for suggested replacement recipes
+  cur.execute(sql,(idsite, ts,t_2m,precip_1h,wind_dir_10m,wind_speed_10m,wind_gusts_10m_1h,msl_pressure,weather_symbol_1h,weather_symbol_24h,sunrise,sunset,dt.datetime.now(dt.UTC).replace(second=0)))
+/var/www/html/mtomatics/db/mtomatics.py:74: DeprecationWarning: The default datetime adapter is deprecated as of Python 3.12; see the sqlite3 documentation for suggested replacement recipes
+  cur.execute(sql,(idsite, ts,t_2m,precip_1h,wind_dir_10m,wind_speed_10m,wind_gusts_10m_1h,msl_pressure,weather_symbol_1h,weather_symbol_24h,sunrise,sunset,dt.datetime.now(dt.UTC).replace(second=0)))
+/var/www/html/mtomatics/db/mtomatics.py:74: DeprecationWarning: The default datetime adapter is deprecated as of Python 3.12; see the sqlite3 documentation for suggested replacement recipes
+  cur.execute(sql,(idsite, ts,t_2m,precip_1h,wind_dir_10m,wind_speed_10m,wind_gusts_10m_1h,msl_pressure,weather_symbol_1h,weather_symbol_24h,sunrise,sunset,dt.datetime.now(dt.UTC).replace(second=0)))
+Il est 10 H 0 Local
+Le traitement va démarrer
+Sites disponibles
+{4: {'id': 4, 'site': 'LFMP', 'lat': 42.741389, 'long': 2.871389, 'iduser': 3, 'username': 'piper_morgan_jp', 'password': 'LeuzR4t23M'}, 5: {'id': 5, 'site': 'LFAY', 'lat': 49.873056, 'long': 2.386945, 'iduser': 3, 'username': 'piper_morgan_jp', 'password': 'LeuzR4t23M'}, 6: {'id': 6, 'site': 'LFNA', 'lat': 44.455, 'long': 6.037222, 'iduser': 3, 'username': 'piper_morgan_jp', 'password': 'LeuzR4t23M'}, 7: {'id': 7, 'site': 'LFOR', 'lat': 48.457222, 'long': 1.519444, 'iduser': 3, 'username': 'piper_morgan_jp', 'password': 'LeuzR4t23M'}, 8: {'id': 8, 'site': 'LFOX', 'lat': 48.381111, 'long': 2.073888, 'iduser': 3, 'username': 'piper_morgan_jp', 'password': 'LeuzR4t23M'}, 9: {'id': 9, 'site': 'LFXU', 'lat': 48.998333, 'long': 1.942777, 'iduser': 3, 'username': 'piper_morgan_jp', 'password': 'LeuzR4t23M'}, 10: {'id': 10, 'site': 'LFBS', 'lat': 44.369444, 'long': -1.131388, 'iduser': 3, 'username': 'piper_morgan_jp', 'password': 'LeuzR4t23M'}, 11: {'id': 11, 'site': 'LFKX', 'lat': 45.406944, 'long': 6.577777, 'iduser': 3, 'username': 'piper_morgan_jp', 'password': 'LeuzR4t23M'}, 12: {'id': 12, 'site': 'LFPT', 'lat': 49.0964, 'long': 2.0406, 'iduser': 3, 'username': 'piper_morgan_jp', 'password': 'LeuzR4t23M'}, 1: {'id': 1, 'site': 'Piste CMB', 'lat': 49.1739495, 'long': 2.3115113, 'iduser': 1, 'username': 'cmb_derenne', 'password': 'Djd7IlD07O'}, 2: {'id': 2, 'site': 'LFPA', 'lat': 49.1666667, 'long': 2.3166667, 'iduser': 1, 'username': 'cmb_derenne', 'password': 'Djd7IlD07O'}, 3: {'id': 3, 'site': 'LFFE', 'lat': 49.046389, 'long': 2.353056, 'iduser': 1, 'username': 'cmb_derenne', 'password': 'Djd7IlD07O'}}
+-------------------
+Interrogation API pour [4] LFMP 42.741389, 2.871389, piper_morgan_jp, LeuzR4t23M
+Terminé, 25 lignes inserées dans la table mto pour le site 4
+La table MTo contient maintenant 3499 lignes pour le site 4
+La table MToMonth contient maintenant 5 lignes pour le site 4
+-------------------
+Interrogation API pour [5] LFAY 49.873056, 2.386945, piper_morgan_jp, LeuzR4t23M
+Terminé, 25 lignes inserées dans la table mto pour le site 5
+La table MTo contient maintenant 3493 lignes pour le site 5
+La table MToMonth contient maintenant 5 lignes pour le site 5
+-------------------
+Interrogation API pour [6] LFNA 44.455, 6.037222, piper_morgan_jp, LeuzR4t23M
+Terminé, 25 lignes inserées dans la table mto pour le site 6
+La table MTo contient maintenant 1647 lignes pour le site 6
+La table MToMonth contient maintenant 2 lignes pour le site 6
+-------------------
+Interrogation API pour [7] LFOR 48.457222, 1.519444, piper_morgan_jp, LeuzR4t23M
+Terminé, 25 lignes inserées dans la table mto pour le site 7
+La table MTo contient maintenant 1647 lignes pour le site 7
+La table MToMonth contient maintenant 2 lignes pour le site 7
+-------------------
+Interrogation API pour [8] LFOX 48.381111, 2.073888, piper_morgan_jp, LeuzR4t23M
+Terminé, 25 lignes inserées dans la table mto pour le site 8
+La table MTo contient maintenant 1647 lignes pour le site 8
+La table MToMonth contient maintenant 2 lignes pour le site 8
+-------------------
+Interrogation API pour [9] LFXU 48.998333, 1.942777, piper_morgan_jp, LeuzR4t23M
+Terminé, 25 lignes inserées dans la table mto pour le site 9
+La table MTo contient maintenant 1646 lignes pour le site 9
+La table MToMonth contient maintenant 2 lignes pour le site 9
+-------------------
+Interrogation API pour [10] LFBS 44.369444, -1.131388, piper_morgan_jp, LeuzR4t23M
+Terminé, 25 lignes inserées dans la table mto pour le site 10
+La table MTo contient maintenant 1646 lignes pour le site 10
+La table MToMonth contient maintenant 2 lignes pour le site 10
+-------------------
+Interrogation API pour [11] LFKX 45.406944, 6.577777, piper_morgan_jp, LeuzR4t23M
+Terminé, 25 lignes inserées dans la table mto pour le site 11
+La table MTo contient maintenant 1646 lignes pour le site 11
+La table MToMonth contient maintenant 2 lignes pour le site 11
+-------------------
+Interrogation API pour [12] LFPT 49.0964, 2.0406, piper_morgan_jp, LeuzR4t23M
+Terminé, 25 lignes inserées dans la table mto pour le site 12
+La table MTo contient maintenant 1646 lignes pour le site 12
+La table MToMonth contient maintenant 2 lignes pour le site 12
+-------------------
+Interrogation API pour [1] Piste CMB 49.1739495, 2.3115113, cmb_derenne, Djd7IlD07O
+Terminé, 25 lignes inserées dans la table mto pour le site 1
+La table MTo contient maintenant 3721 lignes pour le site 1
+La table MToMonth contient maintenant 5 lignes pour le site 1
+-------------------
+Interrogation API pour [2] LFPA 49.1666667, 2.3166667, cmb_derenne, Djd7IlD07O
+Terminé, 25 lignes inserées dans la table mto pour le site 2
+La table MTo contient maintenant 3521 lignes pour le site 2
+La table MToMonth contient maintenant 5 lignes pour le site 2
+-------------------
+Interrogation API pour [3] LFFE 49.046389, 2.353056, cmb_derenne, Djd7IlD07O
+Terminé, 25 lignes inserées dans la table mto pour le site 3
+La table MTo contient maintenant 3515 lignes pour le site 3
+La table MToMonth contient maintenant 5 lignes pour le site 3
